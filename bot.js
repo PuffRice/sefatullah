@@ -34,4 +34,4 @@ setInterval(() => {
 }, 280000);
 });
 
-client.login('NDc2OTYzNzk0NDUxNDMxNDM1.Dk9jiQ.Ll0-aIX-6HIe07_LjlQF-dd6Rms');
+client.login('mytoken');
